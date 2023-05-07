@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "phone",
+      "price": 2992,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "battery",
+      "price": 200,
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "printer",
+      "price": 2000,
+      "checked": false
+    },
+    {
+      "name": "washmachine",
+      "price": "7865",
+      "checked": true,
+      "id": 6
+    }
+  ]
+}
